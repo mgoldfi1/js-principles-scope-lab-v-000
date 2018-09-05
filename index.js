@@ -1,3 +1,5 @@
 // Write your solution in this file!
 customerName = "bob"
-upperCaseCustomerName()
+function upperCaseCustomerName() {
+  return  customerName.to_uppercase
+}
