@@ -2,6 +2,4 @@
  var customerName = "bob"
 function upperCaseCustomerName() {
   customerName = customerName.to_UpperCase()
-  console.log(customerName)
-
 }
